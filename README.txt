@@ -19,7 +19,7 @@ aj@lkn.io | @ajlkn
 
 -
 
-Updated code to reflect a plant shop website by © Jewel Addy Codes. 
+Updated code to reflect a plant shop and online store website by © Jewel Addy Codes. 
 
 
 Credits:
